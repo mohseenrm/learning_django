@@ -87,3 +87,5 @@ celerybeat-schedule
 
 # Rope project settings
 .ropeproject
+.DS_Store
+.virtualenvs
